@@ -1,0 +1,66 @@
+.card {
+  border: 1.4px groove #ab7cf4;
+  height: 706px;
+  width: 340px;
+  box-sizing: border-box;
+  box-shadow: 8px 10px 5px  rgba(213, 213, 213, 0.5);
+  /*Additional  customized code*/
+  background-color: #efe9ff;
+  border-radius: 2px 2px 2px 2px;
+}
+.Info-div {
+  border: 2px groove #bce4fe;
+  height: 385px;
+  width: 300px;
+  margin: auto;
+  padding: 10px;
+  box-sizing: border-box;
+  /*Additional  customized code*/
+  border-radius: 2px 2px 2px 2px;
+}
+img {
+  width: 300px;
+  height: 200px;
+  margin: auto;
+}
+.img-border {
+  border: 2px groove #faba8d;
+  padding: 1px;
+  display: block;
+  margin-bottom: 15px;
+  /*Additional  customized code*/
+  border-radius: 2px 2px 2px 2px;
+}
+.heads {
+  font-size:25px;
+  margin-left: 17px;
+  /*Additional  customized code*/
+  font-family: sans-serif;
+}
+.interesting-fact {
+  font-style: italic;
+  text-align: justify;
+}
+.list {
+  list-style-type:none;
+  padding: 0;
+}
+.list-bold {
+    font-weight: bold;
+}
+.description {
+  text-align: justify;
+}
+  /* customized codes Source from rainbowcoding.com */
+.rainbow {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+/*Additoanl customized codes for the Sources*/
+.Sources {
+  padding-top: 10px;
+  font-size: 11px;
+}
